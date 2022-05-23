@@ -1,6 +1,5 @@
 <h1 align="center">
-  
-  <img src="./src/assets/focustimer.png" height="100px" alt="FocusTimer"/>
+  FocusTimer
 </h1>
 
 <h2 align="center" >Descrição do Projeto</h2>
@@ -9,17 +8,21 @@
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="./src/assets/focustimer.gif" />
+  <img alt="logo" title="#logo" src="assets/focustimer.gif" />
 </h1>
 
 ## 🔎 Features
 
 - [x] Iniciar o cronometro.
-- [x] Adicionar quando minutos quero no cronometro.
-- [x] Alteração do nome das tarefas.
-- [x] Marcar cada card de tarefa como feito quando a tarefa ja estiver sido realizada.
-- [x] Caso card de tarefa esteja habilitado para edição, não deixar o mesmo ser marcado como feito.
-- [x] Caso card de tarefa ja esteja marcado como feito, não deixar ser editado.
+- [x] Pausar cronometro.
+- [x] Parar cronometro.
+- [x] Adicionar quantos minutos quero no cronometro.
+- [x] Ao parar cronometro voltar para o tempo inserido anteriormente.
+- [x] Ao clicar no icone de sem som, habilitar musica de fundo e trocar icone para com som
+- [x] Ao clicar no icone de som, desabilitar musica de fundo e trocar icone para sem som
+
+ 
+
 
 
 ## :rocket: Tecnologias
@@ -47,9 +50,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/gabriel-assana/TaskCards-React
+$ git clone https://github.com/gabriel-assana/FocusTimer
 # Acesse a pasta do projeto no terminal/cmd
-$ cd TaskCards-React
+$ cd FocusTimer
 # Abra um novo terminal e execute a aplicação em modo de desenvolvimento
 $ yarn start
 # O servidor do front-end inciará na porta:http://localhost:3000/ - acesse <http://localhost:3000/> 
