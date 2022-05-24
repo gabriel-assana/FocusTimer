@@ -13,9 +13,9 @@
 
 ## 🔎 Features
 
-- [x] Iniciar o cronometro.
-- [x] Pausar cronometro.
-- [x] Parar cronometro.
+- [x] Iniciar o timer.
+- [x] Pausar timer.
+- [x] Parar timer.
 - [x] Adicionar quantos minutos quero no cronometro.
 - [x] Ao parar cronometro voltar para o tempo inserido anteriormente.
 - [x] Ao clicar no icone de sem som, habilitar musica de fundo e trocar icone para com som
