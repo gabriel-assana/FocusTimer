@@ -55,5 +55,5 @@ $ git clone https://github.com/gabriel-assana/FocusTimer
 $ cd FocusTimer
 # Abra um novo terminal e execute a aplicação em modo de desenvolvimento
 $ yarn start
-# O servidor do front-end inciará na porta:http://localhost:3000/ - acesse <http://localhost:3000/> 
+# O servidor do front-end inciará na porta:http://localhost:3000/ - acesse <http://localhost:3000/>  
 
